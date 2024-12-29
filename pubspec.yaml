@@ -16,7 +16,7 @@ publish_to: "none" # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.10.31+20
+version: 1.10.4+21
 
 environment:
   sdk: ">=3.1.5 <4.0.0"
@@ -65,7 +65,7 @@ dependencies:
     git:
       url: https://github.com/anandnet/Player-Response.git
       branch: main
-      ref: d6361fa560a73f54884b2dd40b52b9d1865580d3
+      ref: 14635d4d1c8511a17097490fd3ad9236627a4924
   restart_app: ^1.2.1
   sdk_int:
     git:
