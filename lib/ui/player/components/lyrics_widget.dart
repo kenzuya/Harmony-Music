@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lyric/lyrics_reader.dart';
+import 'package:harmonymusic/packages/flutter_lyric/lyrics_reader.dart';
 import 'package:get/get.dart';
 
 import '../../widgets/loader.dart';
